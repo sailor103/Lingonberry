@@ -70,7 +70,7 @@
 
     <p class="credits-left">
     
-      <span>Copyright</span> &copy; 2010-<?php echo date('Y');?> <a href="<?php $this->options->siteUrl(); ?>" title="<?php $this->options->title() ?>"><?php $this->options->title() ?></a>
+      <span>Copyright</span> &copy; 2010-<?php echo date('Y');?> <a href="<?php $this->options->siteUrl(); ?>" title="<?php $this->options->title() ?>"><?php $this->options->title() ?></a> Drive by <a target="_blank" href="http://typecho.org/">Typecho</a> & <a target="_blank" href="https://github.com/sailor103/Lingonberry">Lingonberry</a>
     
     </p>
     

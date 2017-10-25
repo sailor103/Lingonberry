@@ -1,0 +1,119 @@
+body a {
+	color: #00b3c6;
+}
+
+body a:hover {
+	color: #00b3c6;
+}
+
+.header {
+	background: #00b3c6;
+}
+
+.post-bubbles a:hover {
+	background-color: #00b3c6;
+}
+
+.mejs-horizontal-volume-current {
+	background-color: #00b3c6;
+}
+
+.post-nav a:hover {
+	background-color: #00b3c6;
+}
+
+.comment-meta-content cite a:hover {
+	color: #00b3c6;
+}
+
+.comment-meta-content p a:hover {
+	color: #00b3c6;
+}
+
+.comment-actions a:hover {
+	background-color: #00b3c6;
+}
+
+.widget-content .textwidget a:hover {
+	color: #00b3c6;
+}
+
+.widget_archive li a:hover {
+	color: #00b3c6;
+}
+
+.widget_categories li a:hover {
+	color: #00b3c6;
+}
+
+.widget_meta li a:hover {
+	color: #00b3c6;
+}
+
+.widget_nav_menu li a:hover {
+	color: #00b3c6;
+}
+
+.widget_rss .widget-content ul a.rsswidget:hover {
+	color: #00b3c6;
+}
+
+#wp-calendar thead {
+	color: #00b3c6;
+}
+
+.widget_tag_cloud a:hover {
+	background: #00b3c6;
+}
+
+.search-button:hover .genericon {
+	color: #00b3c6;
+}
+
+.flexslider:hover .flex-next:active {
+	color: #00b3c6;
+}
+
+.flexslider:hover .flex-prev:active {
+	color: #00b3c6;
+}
+
+.post-title a:hover {
+	color: #00b3c6;
+}
+
+.post-content a {
+	color: #00b3c6;
+}
+
+.post-content a:hover {
+	color: #00b3c6;
+}
+
+.post-content a:hover {
+	border-bottom-color: #00b3c6;
+}
+
+.post-content fieldset legend {
+	background: #00b3c6;
+}
+
+.post-content input[type="submit"]:hover {
+	background: #00b3c6;
+}
+
+.post-content input[type="button"]:hover {
+	background: #00b3c6;
+}
+
+.post-content input[type="reset"]:hover {
+	background: #00b3c6;
+}
+
+.comment-header h4 a:hover {
+	color: #00b3c6;
+}
+
+.form-submit #submit:hover {
+	background-color: #00b3c6;
+}  

@@ -44,8 +44,8 @@
                 <div class="textwidget">
                   <ul>
                   	<li>尹全超，80末90初的第一代人</li>
-                    <li><a href="http://malagis.com" target="_blank" >麻辣GIS</a>站长，<a href="http://pointstone.org" target="_blank">点石团队</a>成员</li>
-                    <li>就读中国海洋大学，研究僧</li>
+                    <li><a href="http://malagis.com" target="_blank" >麻辣GIS</a>站长。</li>
+                    <li>现就职于武汉某公司。</li>
                     <li>主页：<a href="http://yqc.im" target="_blank">yqc.im</a></li>
                     <li>邮箱：i@yqc.im</li>
                     <li>企鹅：61817708</li>

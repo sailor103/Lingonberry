@@ -26,8 +26,7 @@ function threadedComments($comments, $singleCommentOptions)
 	
 	<div class="comment-body">
 		<div class="comment-author vcard">
-      <img class="avatar lazy" src="<?php $comments->gravatar('54', ''); ?>" alt="<?php echo $comments->author; ?>" width="54" height="54" />
-
+      <?php $comments->gravatar('54', ''); ?>
       <div class="floor">
 				<?php if(!$comments->parent) {echo $comments->sequence();echo '#';} ?>
 			</div>

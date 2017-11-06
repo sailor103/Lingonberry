@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="<?php $this->options->themeUrl(); ?>custom.css">
     <link rel="shortcut icon" href="<?php $this->options->themeUrl();?>images/favicon.ico" />
     
-    <script type='text/javascript' src='http://cdn.staticfile.org/jquery/1.11.3/jquery.min.js'></script>
+    <script type='text/javascript' src='https://cdn.staticfile.org/jquery/1.11.3/jquery.min.js'></script>
     <!-- 通过自有函数输出HTML头部信息 -->
     <?php $this->header(); ?>
 </head>

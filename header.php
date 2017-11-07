@@ -19,6 +19,10 @@
     <script type='text/javascript' src='https://cdn.staticfile.org/jquery/1.11.3/jquery.min.js'></script>
     <!-- 通过自有函数输出HTML头部信息 -->
     <?php $this->header(); ?>
+    <!--ana-->
+    <?php if ($this->options->mytheme_analytics):?>
+    <?php $this->options->mytheme_analytics() ?>
+    <?php endif;?>
 </head>
 <?php if ($this->is('single')) : ?>
 <body class="single single-post">
